@@ -39,3 +39,5 @@ explore: submission {
 }
 
 explore: perf_query_daily {}
+
+explore: perf_qry_demo {}
